@@ -1,21 +1,3 @@
-# Boldbat Khuukhenduu - Portfolio
-
-> Software Engineer & AI Specialist from Mongolia 🇲🇳
-
-Hey there! Welcome to my digital space where I showcase my work in software engineering and AI. I'm Boldbat Khuukhenduu (you can call me BOLDBAT.K), and I love building things that make a difference.
-
-## What I Do
-
-I'm passionate about creating innovative digital solutions, especially in AI and machine learning. Currently studying AI at Mongolian University of Science and Technology while running my own company, Oyu Intelligence LLC.
-
-
-## Tech I Love
-
-**Frontend:** Next.js, TypeScript, React, Tailwind CSS
-**Backend:** Node.js, Python, Express
-**AI/ML:** TensorFlow, PyTorch, LangChain
-**Design:** Figma, Framer Motion, 3D with Spline
-**Other:** Flutter, C++, Video Editing
 
 ## Quick Start
 
