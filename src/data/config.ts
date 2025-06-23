@@ -1,11 +1,12 @@
 const config = {
-  title: "BOLDBAT.K | Software Engineer & AI Specialist from Mongolia",
+  title: "Boldbat Khuukhenduu | Software Engineer & AI Specialist from Mongolia",
   description: {
-    long: "Explore the portfolio of BOLDBAT.K, a software engineer and AI specialist from Ulaanbaatar, Mongolia with expertise in TypeScript, NodeJS, Flutter, Python, C++, JavaScript, AI/ML (TensorFlow, PyTorch, Langchain), UI/UX design, and video editing. Discover my latest work, including AI-driven applications, web development projects, and innovative solutions. Let's build something amazing together!",
+    long: "Explore the portfolio of Boldbat Khuukhenduu, a software engineer and AI specialist from Ulaanbaatar, Mongolia with expertise in TypeScript, NodeJS, Flutter, Python, C++, JavaScript, AI/ML (TensorFlow, PyTorch, Langchain), UI/UX design, and video editing. Discover my latest work, including AI-driven applications, web development projects, and innovative solutions. Let's build something amazing together!",
     short:
-      "Discover the portfolio of BOLDBAT.K, a software engineer and AI specialist from Mongolia creating innovative digital solutions.",
+      "Discover the portfolio of Boldbat Khuukhenduu, a software engineer and AI specialist from Mongolia creating innovative digital solutions.",
   },
   keywords: [
+    "Boldbat Khuukhenduu",
     "BOLDBAT.K",
     "Boldbat",
     "portfolio",
@@ -32,7 +33,7 @@ const config = {
     "Next.js",
     "Oyu Intelligence",
   ],
-  author: "BOLDBAT.K",
+  author: "Boldbat Khuukhenduu",
   email: "boldbat.nz@icloud.com",
   phone: "+976 86970213",
   location: "Ulaanbaatar, Mongolia",

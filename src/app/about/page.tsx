@@ -251,7 +251,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">BOLDBAT.K</p>
+                <p className="text-center text-xl">Boldbat Khuukhenduu</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Software Engineer & AI Specialist
                 </div>
@@ -290,7 +290,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m BOLDBAT.K, a Software Engineer and AI Specialist from Ulaanbaatar, Mongolia,
+              Hey there! I&apos;m Boldbat Khuukhenduu, a Software Engineer and AI Specialist from Ulaanbaatar, Mongolia,
               passionate about creating innovative digital solutions. With expertise in TypeScript, NodeJS, Flutter,
               Python, C++, JavaScript, AI/ML (TensorFlow, PyTorch, Langchain), UI/UX design, and video editing,
               I thrive on turning ideas into reality through coding, AI integration, and thoughtful design.
